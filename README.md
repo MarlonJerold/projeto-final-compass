@@ -74,7 +74,8 @@ O frontend depende do backend para funcionar corretamente. Com o backend já mig
 
 ## 3. Diagrama de Arquitetura
 
-![image](https://github.com/user-attachments/assets/280ccda6-c5ef-4a94-9099-19cdbdd267d3)
+![image](https://github.com/user-attachments/assets/61d5d381-3039-48cf-af89-05c4d16b0571)
+
 
 
 ## 4. Etapas de Migração
