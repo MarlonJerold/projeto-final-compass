@@ -157,7 +157,8 @@ O frontend depende do backend para funcionar corretamente. Com o backend já mig
 - **Velero**: Backup e restauração de recursos do Kubernetes.
 
 ### 2. Diagrama da Arquitetura
-![image](https://github.com/user-attachments/assets/2207a9ac-feb8-4aa4-9aae-671c39af3a9c)
+![image](https://github.com/user-attachments/assets/e25a3722-fc96-45cb-94a5-47cc249fcbfa)
+
 
 ### 3. Etapas de Modernização
 
